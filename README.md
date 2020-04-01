@@ -1,2 +1,3 @@
-# test
-This repository is only used for TEST
+# 图床
+此仓库为图床专有仓库
+
